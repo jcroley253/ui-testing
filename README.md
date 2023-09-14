@@ -4,16 +4,17 @@
 <br />
 <div align="center">
 
-<h2 align="center">Web Scraper Collection</h2>
+<h2 align="center">UI Test Automation</h2>
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,gcp,go,cs,powershell,nodejs,js,py,selenium" />
+    <img src="https://skillicons.dev/icons?i=cs,selenium" />
   </a>
 </p>
 
 </div>
 
 ## **About this project**
-### **This repo contains a 2 credit card number validators. One checks a bulk list of credit card numbers. The other validates the credit card based on user input.**
+### **This repo contains a collection of NUnit test cases that utilize Selenium to automate UI testing.**
 ---
