@@ -1,0 +1,22 @@
+name: gvt-ui-testing
+trigger: none
+
+pool:
+  vmImage: "windows-latest"
+
+variables:
+  solution: "**/gravitate-tests/*.sln"
+  buildPlatform: "AnyCPU"
+  buildConfiguration: "Release"
+
+stages:
+  - stage: Build
+    displayName: 'Build and Execute Tests'
+    jobs:
+    - job: Test
+      displayName: 'Execute Tests'
+      steps:
+      - task: DotNetCoreCLI@2
+        inputs:
+          command: 'test'
+          projects: '$(solution)'
