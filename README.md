@@ -16,5 +16,5 @@
 </div>
 
 ## **About this project**
-### **This repo contains a collection of NUnit test cases that utilize Selenium to automate UI testing.**
+### **This repo contains a collection of NUnit test cases that utilize Selenium to automate UI testing via Azure DevOps Pipelines.**
 ---
