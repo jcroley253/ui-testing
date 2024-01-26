@@ -6,4 +6,6 @@ global using OpenQA.Selenium.Remote;
 global using OpenQA.Selenium.Chrome;
 global using OpenQA.Selenium.Support.UI;
 global using OpenQA.Selenium.Interactions;
+global using Microsoft.Extensions.Configuration;
 global using static gravitate_test_automation.logIt;
+global using static gravitate_test_automation.setup;

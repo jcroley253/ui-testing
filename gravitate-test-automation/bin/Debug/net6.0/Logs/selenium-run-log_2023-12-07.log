@@ -1,0 +1,712 @@
+12/7/2023 9:43:55 AM - Launching dependencies.
+12/7/2023 9:43:57 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 9:44:03 AM - Clicking Username field.
+12/7/2023 9:44:03 AM - Entering Username.
+12/7/2023 9:44:03 AM - Clicking password field.
+12/7/2023 9:44:03 AM - Entering password.
+12/7/2023 9:44:03 AM - Pressing Enter key.
+12/7/2023 9:44:03 AM - Clicking Site Monitoring Tab.
+12/7/2023 9:44:13 AM - FAILED to Add Order Note on step: Clicking Site Monitoring Tab.
+12/7/2023 9:44:13 AM - Clicking User Control Panel.
+12/7/2023 9:44:13 AM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/7/2023 9:48:17 AM - Launching dependencies.
+12/7/2023 9:48:18 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 9:48:23 AM - Clicking Username field.
+12/7/2023 9:48:23 AM - Entering Username.
+12/7/2023 9:48:23 AM - Clicking password field.
+12/7/2023 9:48:23 AM - Entering password.
+12/7/2023 9:48:23 AM - Pressing Enter key.
+12/7/2023 9:48:23 AM - Clicking Site Monitoring Tab.
+12/7/2023 9:48:26 AM - Clicking Search Bar.
+12/7/2023 9:48:29 AM - Inserting Store Number.
+12/7/2023 9:48:32 AM - Pressing Enter key.
+12/7/2023 9:48:34 AM - Clicking selected store details.
+12/7/2023 9:48:34 AM - Clicking top order details.
+12/7/2023 9:48:35 AM - Clicking Edit Driver Note.
+12/7/2023 9:48:36 AM - Clicking Note Field.
+12/7/2023 9:48:36 AM - Clearing existing notes.
+12/7/2023 9:48:36 AM - Inserting new text into note.
+12/7/2023 9:48:36 AM - Clicking Save.
+12/7/2023 9:48:36 AM - Clicking Save Order.
+12/7/2023 9:48:38 AM - Clicking No on Email Carrier.
+12/7/2023 9:48:40 AM - Closing status pop up.
+12/7/2023 9:48:43 AM - Clicking Back to All Sites
+12/7/2023 9:48:44 AM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/7/2023 9:48:44 AM - Clicking User Control Panel.
+12/7/2023 9:48:45 AM - Click Logout.
+12/7/2023 9:50:14 AM - Launching dependencies.
+12/7/2023 9:50:15 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 9:50:22 AM - Clicking Username field.
+12/7/2023 9:50:22 AM - Entering Username.
+12/7/2023 9:50:22 AM - Clicking password field.
+12/7/2023 9:50:22 AM - Entering password.
+12/7/2023 9:50:22 AM - Pressing Enter key.
+12/7/2023 9:50:22 AM - Clicking Site Monitoring Tab.
+12/7/2023 9:50:24 AM - Clicking Search Bar.
+12/7/2023 9:50:27 AM - Inserting Store Number.
+12/7/2023 9:50:31 AM - Pressing Enter key.
+12/7/2023 9:50:33 AM - Clicking selected store details.
+12/7/2023 9:50:33 AM - Clicking top order details.
+12/7/2023 9:50:34 AM - Clicking Edit Driver Note.
+12/7/2023 9:50:34 AM - Clicking Note Field.
+12/7/2023 9:50:34 AM - Clearing existing notes.
+12/7/2023 9:50:34 AM - Inserting new text into note.
+12/7/2023 9:50:35 AM - Clicking Save.
+12/7/2023 9:50:35 AM - Clicking Save Order.
+12/7/2023 9:50:37 AM - Clicking No on Email Carrier.
+12/7/2023 9:50:39 AM - Closing status pop up.
+12/7/2023 9:50:42 AM - Selecting cached site in search bar.
+12/7/2023 9:50:55 AM - Clearing cached site in search bar.
+12/7/2023 9:50:55 AM - Clicking User Control Panel.
+12/7/2023 9:50:55 AM - Click Logout.
+12/7/2023 9:53:49 AM - Launching dependencies.
+12/7/2023 9:53:50 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 9:53:56 AM - Clicking Username field.
+12/7/2023 9:53:56 AM - Entering Username.
+12/7/2023 9:53:56 AM - Clicking password field.
+12/7/2023 9:53:56 AM - Entering password.
+12/7/2023 9:53:56 AM - Pressing Enter key.
+12/7/2023 9:53:56 AM - Clicking Site Monitoring Tab.
+12/7/2023 9:53:59 AM - Clicking Search Bar.
+12/7/2023 9:54:02 AM - Inserting Store Number.
+12/7/2023 9:54:05 AM - Pressing Enter key.
+12/7/2023 9:54:07 AM - Clicking selected store details.
+12/7/2023 9:54:07 AM - Clicking top order details.
+12/7/2023 9:54:08 AM - Clicking Edit Driver Note.
+12/7/2023 9:54:09 AM - Clicking Note Field.
+12/7/2023 9:54:09 AM - Clearing existing notes.
+12/7/2023 9:54:09 AM - Inserting new text into note.
+12/7/2023 9:54:09 AM - Clicking Save.
+12/7/2023 9:54:09 AM - Clicking Save Order.
+12/7/2023 9:54:11 AM - Clicking No on Email Carrier.
+12/7/2023 9:54:13 AM - Closing status pop up.
+12/7/2023 9:54:16 AM - Clicking Back to All Sites
+12/7/2023 9:54:17 AM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/7/2023 9:54:17 AM - Clicking User Control Panel.
+12/7/2023 9:54:17 AM - Click Logout.
+12/7/2023 9:57:38 AM - Launching dependencies.
+12/7/2023 9:57:40 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 9:57:45 AM - Clicking Username field.
+12/7/2023 9:57:45 AM - Entering Username.
+12/7/2023 9:57:45 AM - Clicking password field.
+12/7/2023 9:57:45 AM - Entering password.
+12/7/2023 9:57:45 AM - Pressing Enter key.
+12/7/2023 9:57:45 AM - Clicking Site Monitoring Tab.
+12/7/2023 9:57:48 AM - Clicking Search Bar.
+12/7/2023 9:58:18 AM - Launching dependencies.
+12/7/2023 9:58:19 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 9:58:24 AM - Clicking Username field.
+12/7/2023 9:58:24 AM - Entering Username.
+12/7/2023 9:58:25 AM - Clicking password field.
+12/7/2023 9:58:25 AM - Entering password.
+12/7/2023 9:58:25 AM - Pressing Enter key.
+12/7/2023 9:58:25 AM - Clicking Site Monitoring Tab.
+12/7/2023 9:58:27 AM - Clicking Search Bar.
+12/7/2023 9:58:33 AM - Inserting Store Number.
+12/7/2023 9:58:36 AM - Pressing Enter key.
+12/7/2023 9:58:38 AM - Clicking selected store details.
+12/7/2023 9:58:38 AM - Clicking top order details.
+12/7/2023 9:58:39 AM - Clicking Edit Driver Note.
+12/7/2023 9:58:40 AM - Clicking Note Field.
+12/7/2023 9:58:40 AM - Clearing existing notes.
+12/7/2023 9:58:40 AM - Inserting new text into note.
+12/7/2023 9:58:40 AM - Clicking Save.
+12/7/2023 9:58:40 AM - Clicking Save Order.
+12/7/2023 9:58:42 AM - Clicking No on Email Carrier.
+12/7/2023 9:58:44 AM - Closing status pop up.
+12/7/2023 9:58:48 AM - Clicking Back to All Sites
+12/7/2023 9:58:49 AM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/7/2023 9:58:49 AM - Clicking User Control Panel.
+12/7/2023 9:58:49 AM - Click Logout.
+12/7/2023 10:01:09 AM - Launching dependencies.
+12/7/2023 10:01:11 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 10:01:16 AM - Clicking Username field.
+12/7/2023 10:01:16 AM - Entering Username.
+12/7/2023 10:01:16 AM - Clicking password field.
+12/7/2023 10:01:16 AM - Entering password.
+12/7/2023 10:01:16 AM - Pressing Enter key.
+12/7/2023 10:01:16 AM - Clicking Site Monitoring Tab.
+12/7/2023 10:01:19 AM - Clicking Search Bar.
+12/7/2023 10:01:23 AM - Inserting Store Number.
+12/7/2023 10:01:26 AM - Pressing Enter key.
+12/7/2023 10:01:28 AM - Clicking selected store details.
+12/7/2023 10:01:28 AM - Clicking top order details.
+12/7/2023 10:01:28 AM - Clicking Edit Driver Note.
+12/7/2023 10:01:29 AM - Clicking Note Field.
+12/7/2023 10:01:29 AM - Clearing existing notes.
+12/7/2023 10:01:29 AM - Inserting new text into note.
+12/7/2023 10:01:29 AM - Clicking Save.
+12/7/2023 10:01:29 AM - Clicking Save Order.
+12/7/2023 10:01:31 AM - Clicking No on Email Carrier.
+12/7/2023 10:01:33 AM - Closing status pop up.
+12/7/2023 10:01:38 AM - Clicking Back to All Sites
+12/7/2023 10:01:40 AM - Selecting cached site in search bar.
+12/7/2023 10:02:10 AM - FAILED to Add Order Note on step: Selecting cached site in search bar.
+12/7/2023 10:02:10 AM - Clicking User Control Panel.
+12/7/2023 10:02:10 AM - Click Logout.
+12/7/2023 10:02:37 AM - Launching dependencies.
+12/7/2023 10:02:38 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 10:02:44 AM - Clicking Username field.
+12/7/2023 10:02:44 AM - Entering Username.
+12/7/2023 10:02:44 AM - Clicking password field.
+12/7/2023 10:02:44 AM - Entering password.
+12/7/2023 10:02:44 AM - Pressing Enter key.
+12/7/2023 10:02:44 AM - Clicking Site Monitoring Tab.
+12/7/2023 10:02:46 AM - Clicking Search Bar.
+12/7/2023 10:02:51 AM - Inserting Store Number.
+12/7/2023 10:02:54 AM - Pressing Enter key.
+12/7/2023 10:02:56 AM - Clicking selected store details.
+12/7/2023 10:02:56 AM - Clicking top order details.
+12/7/2023 10:02:57 AM - Clicking Edit Driver Note.
+12/7/2023 10:02:57 AM - Clicking Note Field.
+12/7/2023 10:02:57 AM - Clearing existing notes.
+12/7/2023 10:02:57 AM - Inserting new text into note.
+12/7/2023 10:02:57 AM - Clicking Save.
+12/7/2023 10:02:57 AM - Clicking Save Order.
+12/7/2023 10:02:59 AM - Clicking No on Email Carrier.
+12/7/2023 10:03:02 AM - Closing status pop up.
+12/7/2023 10:03:06 AM - Clicking Back to All Sites
+12/7/2023 10:03:08 AM - Selecting cached site in search bar.
+12/7/2023 10:03:38 AM - FAILED to Add Order Note on step: Selecting cached site in search bar.
+12/7/2023 10:03:38 AM - Clicking User Control Panel.
+12/7/2023 10:03:38 AM - Click Logout.
+12/7/2023 10:06:55 AM - Launching dependencies.
+12/7/2023 10:06:57 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 10:07:02 AM - Clicking Username field.
+12/7/2023 10:07:02 AM - Entering Username.
+12/7/2023 10:07:02 AM - Clicking password field.
+12/7/2023 10:07:02 AM - Entering password.
+12/7/2023 10:07:02 AM - Pressing Enter key.
+12/7/2023 10:07:02 AM - Clicking Site Monitoring Tab.
+12/7/2023 10:07:05 AM - Clicking Search Bar.
+12/7/2023 10:07:22 AM - Inserting Store Number.
+12/7/2023 10:07:25 AM - Pressing Enter key.
+12/7/2023 10:07:27 AM - Clicking selected store details.
+12/7/2023 10:07:27 AM - Clicking top order details.
+12/7/2023 10:07:28 AM - Clicking Edit Driver Note.
+12/7/2023 10:07:28 AM - Clicking Note Field.
+12/7/2023 10:07:28 AM - Clearing existing notes.
+12/7/2023 10:07:28 AM - Inserting new text into note.
+12/7/2023 10:07:28 AM - Clicking Save.
+12/7/2023 10:07:28 AM - Clicking Save Order.
+12/7/2023 10:07:31 AM - Clicking No on Email Carrier.
+12/7/2023 10:07:33 AM - Closing status pop up.
+12/7/2023 10:07:37 AM - Clicking Back to All Sites
+12/7/2023 10:07:38 AM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/7/2023 10:07:38 AM - Clicking User Control Panel.
+12/7/2023 10:07:38 AM - Click Logout.
+12/7/2023 10:08:49 AM - Launching dependencies.
+12/7/2023 10:08:51 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 10:08:56 AM - Clicking Username field.
+12/7/2023 10:08:56 AM - Entering Username.
+12/7/2023 10:08:56 AM - Clicking password field.
+12/7/2023 10:08:56 AM - Entering password.
+12/7/2023 10:08:56 AM - Pressing Enter key.
+12/7/2023 10:08:56 AM - Clicking Site Monitoring Tab.
+12/7/2023 10:08:59 AM - Clicking Search Bar.
+12/7/2023 10:09:05 AM - Inserting Store Number.
+12/7/2023 10:09:08 AM - Pressing Enter key.
+12/7/2023 10:09:10 AM - Clicking selected store details.
+12/7/2023 10:09:10 AM - Clicking top order details.
+12/7/2023 10:09:10 AM - Clicking Edit Driver Note.
+12/7/2023 10:09:11 AM - Clicking Note Field.
+12/7/2023 10:09:11 AM - Clearing existing notes.
+12/7/2023 10:09:11 AM - Inserting new text into note.
+12/7/2023 10:09:11 AM - Clicking Save.
+12/7/2023 10:09:11 AM - Clicking Save Order.
+12/7/2023 10:09:13 AM - Clicking No on Email Carrier.
+12/7/2023 10:09:15 AM - Closing status pop up.
+12/7/2023 10:09:19 AM - Clicking Back to All Sites
+12/7/2023 10:09:20 AM - Clicking User Control Panel.
+12/7/2023 10:09:20 AM - Click Logout.
+12/7/2023 10:15:53 AM - Launching dependencies.
+12/7/2023 10:15:54 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 10:15:59 AM - Clicking Username field.
+12/7/2023 10:15:59 AM - Entering Username.
+12/7/2023 10:15:59 AM - Clicking password field.
+12/7/2023 10:15:59 AM - Entering password.
+12/7/2023 10:15:59 AM - Pressing Enter key.
+12/7/2023 10:15:59 AM - Clicking Site Monitoring Tab.
+12/7/2023 10:16:02 AM - Clicking Search Bar.
+12/7/2023 10:16:10 AM - Inserting Store Number.
+12/7/2023 10:16:13 AM - Pressing Enter key.
+12/7/2023 10:16:15 AM - Clicking selected store details.
+12/7/2023 10:16:15 AM - Clicking top order details.
+12/7/2023 10:16:16 AM - Clicking Edit Driver Note.
+12/7/2023 10:16:17 AM - Clicking Note Field.
+12/7/2023 10:16:17 AM - Clearing existing notes.
+12/7/2023 10:16:17 AM - Inserting new text into note.
+12/7/2023 10:16:17 AM - Clicking Save.
+12/7/2023 10:16:17 AM - Clicking Save Order.
+12/7/2023 10:16:19 AM - Clicking No on Email Carrier.
+12/7/2023 10:16:21 AM - Closing status pop up.
+12/7/2023 10:16:25 AM - Clicking Back to All Sites
+12/7/2023 10:16:26 AM - Clicking User Control Panel.
+12/7/2023 10:16:26 AM - Click Logout.
+12/7/2023 10:20:32 AM - Launching dependencies.
+12/7/2023 10:20:33 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 10:20:39 AM - Clicking Username field.
+12/7/2023 10:20:40 AM - Entering Username.
+12/7/2023 10:20:40 AM - Clicking password field.
+12/7/2023 10:20:40 AM - Entering password.
+12/7/2023 10:20:40 AM - Pressing Enter key.
+12/7/2023 10:20:40 AM - Clicking Site Monitoring Tab.
+12/7/2023 10:20:42 AM - Clicking Search Bar.
+12/7/2023 10:20:45 AM - Inserting Store Number.
+12/7/2023 10:20:48 AM - Pressing Enter key.
+12/7/2023 10:20:51 AM - Clicking selected store details.
+12/7/2023 10:20:51 AM - Clicking top order details.
+12/7/2023 10:20:52 AM - Clicking Edit Driver Note.
+12/7/2023 10:20:53 AM - Clicking Note Field.
+12/7/2023 10:20:53 AM - Clearing existing notes.
+12/7/2023 10:20:53 AM - Inserting new text into note.
+12/7/2023 10:20:53 AM - Clicking Save.
+12/7/2023 10:20:53 AM - Clicking Save Order.
+12/7/2023 10:20:55 AM - Clicking No on Email Carrier.
+12/7/2023 10:20:57 AM - Closing status pop up.
+12/7/2023 10:21:01 AM - Clicking Back to All Sites
+12/7/2023 10:21:03 AM - Selecting cached site in search bar.
+12/7/2023 10:21:06 AM - Clearing cached site in search bar.
+12/7/2023 10:21:06 AM - Clicking User Control Panel.
+12/7/2023 10:21:06 AM - Click Logout.
+12/7/2023 10:25:48 AM - Launching dependencies.
+12/7/2023 10:25:50 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 10:25:55 AM - Clicking Username field.
+12/7/2023 10:25:55 AM - Entering Username.
+12/7/2023 10:25:56 AM - Clicking password field.
+12/7/2023 10:25:56 AM - Entering password.
+12/7/2023 10:25:56 AM - Pressing Enter key.
+12/7/2023 10:25:56 AM - Clicking Site Monitoring Tab.
+12/7/2023 10:25:58 AM - Clicking Search Bar.
+12/7/2023 10:26:01 AM - Inserting Store Number.
+12/7/2023 10:26:04 AM - Pressing Enter key.
+12/7/2023 10:26:07 AM - Clicking selected store details.
+12/7/2023 10:26:07 AM - Clicking top order details.
+12/7/2023 10:26:08 AM - Clicking Edit Driver Note.
+12/7/2023 10:26:09 AM - Clicking Note Field.
+12/7/2023 10:26:09 AM - Clearing existing notes.
+12/7/2023 10:26:09 AM - Inserting new text into note.
+12/7/2023 10:26:09 AM - Clicking Save.
+12/7/2023 10:26:09 AM - Clicking Save Order.
+12/7/2023 10:26:11 AM - Clicking No on Email Carrier.
+12/7/2023 10:26:13 AM - Closing status pop up.
+12/7/2023 10:26:16 AM - Clicking Back to All Sites
+12/7/2023 10:26:16 AM - Selecting cached site in search bar.
+12/7/2023 10:26:16 AM - Clearing cached site in search bar.
+12/7/2023 10:26:16 AM - Clicking User Control Panel.
+12/7/2023 10:26:17 AM - Click Logout.
+12/7/2023 11:18:18 AM - Launching dependencies.
+12/7/2023 11:18:19 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 11:18:25 AM - Clicking Username field.
+12/7/2023 11:18:25 AM - Entering Username.
+12/7/2023 11:18:26 AM - Clicking password field.
+12/7/2023 11:18:26 AM - Entering password.
+12/7/2023 11:18:26 AM - Pressing Enter key.
+12/7/2023 11:18:26 AM - Clicking Site Monitoring Tab.
+12/7/2023 11:18:28 AM - Clicking Search Bar.
+12/7/2023 11:18:31 AM - Inserting Store Number.
+12/7/2023 11:18:34 AM - Pressing Enter key.
+12/7/2023 11:18:36 AM - Clicking selected store details.
+12/7/2023 11:18:37 AM - Clicking top order details.
+12/7/2023 11:18:37 AM - Clicking Edit Driver Note.
+12/7/2023 11:18:38 AM - Clicking Note Field.
+12/7/2023 11:18:38 AM - Clearing existing notes.
+12/7/2023 11:18:38 AM - Inserting new text into note.
+12/7/2023 11:18:38 AM - Clicking Save.
+12/7/2023 11:18:38 AM - Clicking Save Order.
+12/7/2023 11:18:40 AM - Clicking No on Email Carrier.
+12/7/2023 11:18:42 AM - Closing status pop up.
+12/7/2023 11:18:44 AM - Clicking User Control Panel.
+12/7/2023 11:18:45 AM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/7/2023 11:21:27 AM - Launching dependencies.
+12/7/2023 11:21:28 AM - Navigating to Gravitate Portal Login Page.
+12/7/2023 11:21:34 AM - Clicking Username field.
+12/7/2023 11:21:34 AM - Entering Username.
+12/7/2023 11:21:34 AM - Clicking password field.
+12/7/2023 11:21:34 AM - Entering password.
+12/7/2023 11:21:34 AM - Pressing Enter key.
+12/7/2023 11:21:34 AM - Clicking Site Monitoring Tab.
+12/7/2023 11:21:36 AM - Clicking Search Bar.
+12/7/2023 11:21:41 AM - Inserting Store Number.
+12/7/2023 11:21:44 AM - Pressing Enter key.
+12/7/2023 11:21:46 AM - Clicking selected store details.
+12/7/2023 11:21:46 AM - Clicking top order details.
+12/7/2023 11:21:47 AM - Clicking Edit Driver Note.
+12/7/2023 11:21:48 AM - Clicking Note Field.
+12/7/2023 11:21:48 AM - Clearing existing notes.
+12/7/2023 11:21:48 AM - Inserting new text into note.
+12/7/2023 11:21:48 AM - Clicking Save.
+12/7/2023 11:21:48 AM - Clicking Save Order.
+12/7/2023 11:21:50 AM - Clicking No on Email Carrier.
+12/7/2023 11:21:53 AM - Closing status pop up.
+12/7/2023 11:21:56 AM - Clicking Back to All Sites
+12/7/2023 11:21:56 AM - Selecting cached site in search bar.
+12/7/2023 11:21:56 AM - Clearing cached site in search bar.
+12/7/2023 11:21:56 AM - Clicking User Control Panel.
+12/7/2023 11:21:57 AM - Click Logout.
+12/7/2023 12:05:20 PM - Launching dependencies.
+12/7/2023 12:05:20 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 12:05:27 PM - Clicking Username field.
+12/7/2023 12:05:27 PM - Entering Username.
+12/7/2023 12:05:27 PM - Clicking password field.
+12/7/2023 12:05:27 PM - Entering password.
+12/7/2023 12:05:27 PM - Pressing Enter key.
+12/7/2023 12:05:28 PM - Clicking Site Monitoring Tab.
+12/7/2023 12:05:30 PM - Clicking Search Bar.
+12/7/2023 12:05:33 PM - Inserting Store Number.
+12/7/2023 12:05:36 PM - Pressing Enter key.
+12/7/2023 12:05:38 PM - Click Create Order.
+12/7/2023 12:05:38 PM - Selecting Premium Unleaded 97.
+12/7/2023 12:05:38 PM - Selecting Diesel.
+12/7/2023 12:05:39 PM - Selecting Unleaded 95.
+12/7/2023 12:05:39 PM - Clicking Save Products.
+12/7/2023 12:06:09 PM - FAILED to Create Order on step: Clicking Save Products.
+12/7/2023 12:06:09 PM - Clicking User Control Panel.
+12/7/2023 12:06:10 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/7/2023 12:39:57 PM - Launching dependencies.
+12/7/2023 12:39:58 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 12:40:03 PM - Clicking Username field.
+12/7/2023 12:40:04 PM - Entering Username.
+12/7/2023 12:40:04 PM - Clicking password field.
+12/7/2023 12:40:04 PM - Entering password.
+12/7/2023 12:40:04 PM - Pressing Enter key.
+12/7/2023 12:40:05 PM - Clicking Site Monitoring Tab.
+12/7/2023 12:40:07 PM - Clicking Search Bar.
+12/7/2023 12:40:10 PM - Inserting Store Number.
+12/7/2023 12:40:13 PM - Pressing Enter key.
+12/7/2023 12:40:16 PM - Clicking selected store details.
+12/7/2023 12:40:16 PM - Click Create Order.
+12/7/2023 12:40:16 PM - Selecting Premium Unleaded 97.
+12/7/2023 12:40:17 PM - Selecting Diesel.
+12/7/2023 12:40:17 PM - Selecting Unleaded 95.
+12/7/2023 12:40:17 PM - Clicking Save Products.
+12/7/2023 12:40:18 PM - Clicking Create Order.
+12/7/2023 12:40:19 PM - Clicking OK on Success.
+12/7/2023 12:40:20 PM - Closing status pop up.
+12/7/2023 12:40:23 PM - Clicking Back to All Sites
+12/7/2023 12:40:23 PM - Selecting cached site in search bar.
+12/7/2023 12:40:23 PM - Clearing cached site in search bar.
+12/7/2023 12:40:23 PM - Clicking User Control Panel.
+12/7/2023 12:40:25 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/7/2023 12:41:20 PM - Launching dependencies.
+12/7/2023 12:41:20 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 12:41:25 PM - Clicking Username field.
+12/7/2023 12:41:26 PM - Entering Username.
+12/7/2023 12:41:27 PM - Clicking password field.
+12/7/2023 12:41:27 PM - Entering password.
+12/7/2023 12:41:27 PM - Pressing Enter key.
+12/7/2023 12:41:27 PM - Clicking Site Monitoring Tab.
+12/7/2023 12:41:29 PM - Clicking Search Bar.
+12/7/2023 12:41:32 PM - Inserting Store Number.
+12/7/2023 12:41:35 PM - Pressing Enter key.
+12/7/2023 12:41:38 PM - Clicking selected store details.
+12/7/2023 12:41:38 PM - Clicking top order details.
+12/7/2023 12:42:08 PM - FAILED to Delete Order on step: Clicking top order details.
+12/7/2023 12:42:08 PM - Clicking User Control Panel.
+12/7/2023 12:42:08 PM - Click Logout.
+12/7/2023 12:42:22 PM - Launching dependencies.
+12/7/2023 12:42:23 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 12:42:30 PM - Clicking Username field.
+12/7/2023 12:42:30 PM - Entering Username.
+12/7/2023 12:42:30 PM - Clicking password field.
+12/7/2023 12:42:30 PM - Entering password.
+12/7/2023 12:42:30 PM - Pressing Enter key.
+12/7/2023 12:42:30 PM - Clicking Site Monitoring Tab.
+12/7/2023 12:42:32 PM - Clicking Search Bar.
+12/7/2023 12:42:38 PM - Inserting Store Number.
+12/7/2023 12:42:42 PM - Pressing Enter key.
+12/7/2023 12:42:44 PM - Clicking selected store details.
+12/7/2023 12:42:44 PM - Clicking top order details.
+12/7/2023 12:43:14 PM - FAILED to Move Order on step: Clicking top order details.
+12/7/2023 12:43:14 PM - Clicking User Control Panel.
+12/7/2023 12:43:14 PM - Click Logout.
+12/7/2023 12:55:24 PM - Launching dependencies.
+12/7/2023 12:55:24 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 12:55:31 PM - Clicking Username field.
+12/7/2023 12:55:31 PM - Entering Username.
+12/7/2023 12:55:31 PM - Clicking password field.
+12/7/2023 12:55:31 PM - Entering password.
+12/7/2023 12:55:31 PM - Pressing Enter key.
+12/7/2023 12:55:32 PM - Clicking Site Monitoring Tab.
+12/7/2023 12:55:34 PM - Clicking Search Bar.
+12/7/2023 12:55:39 PM - Inserting Store Number.
+12/7/2023 12:55:43 PM - Pressing Enter key.
+12/7/2023 12:55:45 PM - Clicking selected store details.
+12/7/2023 12:55:45 PM - Clicking top order details.
+12/7/2023 12:56:15 PM - FAILED to Update Order on step: Clicking top order details.
+12/7/2023 12:56:15 PM - Clicking User Control Panel.
+12/7/2023 12:56:15 PM - Click Logout.
+12/7/2023 2:02:37 PM - Launching dependencies.
+12/7/2023 2:02:38 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 2:02:43 PM - Clicking Username field.
+12/7/2023 2:02:43 PM - Entering Username.
+12/7/2023 2:02:43 PM - Clicking password field.
+12/7/2023 2:02:43 PM - Entering password.
+12/7/2023 2:02:43 PM - Pressing Enter key.
+12/7/2023 2:02:44 PM - Clicking Site Monitoring Tab.
+12/7/2023 2:02:46 PM - Clicking Search Bar.
+12/7/2023 2:02:51 PM - Inserting Store Number.
+12/7/2023 2:02:55 PM - Pressing Enter key.
+12/7/2023 2:02:57 PM - Clicking selected store details.
+12/7/2023 2:02:58 PM - Closing status pop up.
+12/7/2023 2:03:28 PM - FAILED to Delete Order on step: Closing status pop up.
+12/7/2023 2:03:28 PM - Clicking User Control Panel.
+12/7/2023 2:03:28 PM - Click Logout.
+12/7/2023 2:04:50 PM - Launching dependencies.
+12/7/2023 2:04:51 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 2:04:57 PM - Clicking Username field.
+12/7/2023 2:04:57 PM - Entering Username.
+12/7/2023 2:04:57 PM - Clicking password field.
+12/7/2023 2:04:57 PM - Entering password.
+12/7/2023 2:04:57 PM - Pressing Enter key.
+12/7/2023 2:04:58 PM - Clicking Site Monitoring Tab.
+12/7/2023 2:05:00 PM - Clicking Search Bar.
+12/7/2023 2:05:03 PM - Inserting Store Number.
+12/7/2023 2:05:06 PM - Pressing Enter key.
+12/7/2023 2:05:08 PM - Clicking selected store details.
+12/7/2023 2:05:09 PM - Closing status pop up.
+12/7/2023 2:05:39 PM - FAILED to Delete Order on step: Closing status pop up.
+12/7/2023 2:05:39 PM - Clicking User Control Panel.
+12/7/2023 2:05:39 PM - Click Logout.
+12/7/2023 2:06:46 PM - Launching dependencies.
+12/7/2023 2:06:47 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 2:06:54 PM - Clicking Username field.
+12/7/2023 2:06:54 PM - Entering Username.
+12/7/2023 2:06:54 PM - Clicking password field.
+12/7/2023 2:06:54 PM - Entering password.
+12/7/2023 2:06:54 PM - Pressing Enter key.
+12/7/2023 2:06:55 PM - Clicking Site Monitoring Tab.
+12/7/2023 2:06:57 PM - Clicking Search Bar.
+12/7/2023 2:07:00 PM - Inserting Store Number.
+12/7/2023 2:07:03 PM - Pressing Enter key.
+12/7/2023 2:07:05 PM - Clicking selected store details.
+12/7/2023 2:07:06 PM - Closing status pop up.
+12/7/2023 2:07:36 PM - FAILED to Add Order Note on step: Closing status pop up.
+12/7/2023 2:07:36 PM - Clicking User Control Panel.
+12/7/2023 2:07:36 PM - Click Logout.
+12/7/2023 2:08:53 PM - Launching dependencies.
+12/7/2023 2:08:54 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 2:08:58 PM - Clicking Username field.
+12/7/2023 2:08:58 PM - Entering Username.
+12/7/2023 2:08:58 PM - Clicking password field.
+12/7/2023 2:08:58 PM - Entering password.
+12/7/2023 2:08:58 PM - Pressing Enter key.
+12/7/2023 2:09:00 PM - Clicking Site Monitoring Tab.
+12/7/2023 2:09:02 PM - Clicking Search Bar.
+12/7/2023 2:09:06 PM - Inserting Store Number.
+12/7/2023 2:09:09 PM - Pressing Enter key.
+12/7/2023 2:09:11 PM - Clicking selected store details.
+12/7/2023 2:09:11 PM - Clicking top order details.
+12/7/2023 2:09:12 PM - Clicking selected Delete Order.
+12/7/2023 2:09:13 PM - Clicking Yes when prompted.
+12/7/2023 2:09:14 PM - Closing status pop up.
+12/7/2023 2:09:17 PM - Clicking Back to All Sites
+12/7/2023 2:09:17 PM - Selecting cached site in search bar.
+12/7/2023 2:09:17 PM - Clearing cached site in search bar.
+12/7/2023 2:09:17 PM - Clicking User Control Panel.
+12/7/2023 2:09:17 PM - Click Logout.
+12/7/2023 4:00:47 PM - Launching dependencies.
+12/7/2023 4:00:48 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:00:53 PM - Clicking Username field.
+12/7/2023 4:00:53 PM - Entering Username.
+12/7/2023 4:00:53 PM - Clicking password field.
+12/7/2023 4:00:53 PM - Entering password.
+12/7/2023 4:00:53 PM - Pressing Enter key.
+12/7/2023 4:00:54 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:00:56 PM - Clicking Search Bar.
+12/7/2023 4:01:17 PM - Inserting Store Number.
+12/7/2023 4:01:20 PM - Pressing Enter key.
+12/7/2023 4:01:22 PM - Clicking selected store details.
+12/7/2023 4:01:22 PM - Clicking top order details.
+12/7/2023 4:01:23 PM - Clicking Edit Driver Note.
+12/7/2023 4:01:23 PM - Clicking Note Field.
+12/7/2023 4:01:23 PM - Clearing existing notes.
+12/7/2023 4:01:23 PM - Inserting new text into note.
+12/7/2023 4:01:23 PM - Clicking Save.
+12/7/2023 4:01:23 PM - Clicking Save Order.
+12/7/2023 4:01:25 PM - Clicking No on Email Carrier.
+12/7/2023 4:01:28 PM - Closing status pop up.
+12/7/2023 4:01:31 PM - Clicking Back to All Sites
+12/7/2023 4:01:32 PM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/7/2023 4:01:32 PM - Clicking User Control Panel.
+12/7/2023 4:01:32 PM - Click Logout.
+12/7/2023 4:02:53 PM - Launching dependencies.
+12/7/2023 4:02:54 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:02:59 PM - Clicking Username field.
+12/7/2023 4:02:59 PM - Entering Username.
+12/7/2023 4:02:59 PM - Clicking password field.
+12/7/2023 4:02:59 PM - Entering password.
+12/7/2023 4:02:59 PM - Pressing Enter key.
+12/7/2023 4:03:00 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:03:02 PM - Clicking Search Bar.
+12/7/2023 4:03:28 PM - Inserting Store Number.
+12/7/2023 4:03:31 PM - Pressing Enter key.
+12/7/2023 4:03:33 PM - Clicking selected store details.
+12/7/2023 4:03:34 PM - Clicking top order details.
+12/7/2023 4:03:34 PM - Clicking Edit Driver Note.
+12/7/2023 4:03:35 PM - Clicking Note Field.
+12/7/2023 4:03:35 PM - Clearing existing notes.
+12/7/2023 4:03:35 PM - Inserting new text into note.
+12/7/2023 4:03:35 PM - Clicking Save.
+12/7/2023 4:03:35 PM - Clicking Save Order.
+12/7/2023 4:03:37 PM - Clicking No on Email Carrier.
+12/7/2023 4:03:40 PM - Closing status pop up.
+12/7/2023 4:03:43 PM - Clicking Back to All Sites
+12/7/2023 4:03:44 PM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/7/2023 4:03:44 PM - Clicking User Control Panel.
+12/7/2023 4:03:44 PM - Click Logout.
+12/7/2023 4:04:37 PM - Launching dependencies.
+12/7/2023 4:04:37 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:04:43 PM - Clicking Username field.
+12/7/2023 4:04:43 PM - Entering Username.
+12/7/2023 4:04:43 PM - Clicking password field.
+12/7/2023 4:04:43 PM - Entering password.
+12/7/2023 4:04:43 PM - Pressing Enter key.
+12/7/2023 4:04:44 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:04:46 PM - Clicking Search Bar.
+12/7/2023 4:05:16 PM - FAILED to Add Order Note on step: Clicking Search Bar.
+12/7/2023 4:05:16 PM - Clicking User Control Panel.
+12/7/2023 4:05:16 PM - Click Logout.
+12/7/2023 4:05:55 PM - Launching dependencies.
+12/7/2023 4:05:56 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:06:01 PM - Clicking Username field.
+12/7/2023 4:06:01 PM - Entering Username.
+12/7/2023 4:06:01 PM - Clicking password field.
+12/7/2023 4:06:01 PM - Entering password.
+12/7/2023 4:06:01 PM - Pressing Enter key.
+12/7/2023 4:06:02 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:06:04 PM - Clicking Search Bar.
+12/7/2023 4:06:07 PM - Inserting Store Number.
+12/7/2023 4:06:10 PM - Pressing Enter key.
+12/7/2023 4:06:12 PM - Clicking selected store details.
+12/7/2023 4:06:12 PM - Clicking top order details.
+12/7/2023 4:06:13 PM - Clicking Edit Driver Note.
+12/7/2023 4:06:14 PM - Clicking Note Field.
+12/7/2023 4:06:14 PM - Clearing existing notes.
+12/7/2023 4:06:14 PM - Inserting new text into note.
+12/7/2023 4:06:14 PM - Clicking Save.
+12/7/2023 4:06:14 PM - Clicking Save Order.
+12/7/2023 4:06:16 PM - Clicking No on Email Carrier.
+12/7/2023 4:06:19 PM - Closing status pop up.
+12/7/2023 4:06:22 PM - Clicking Back to All Sites
+12/7/2023 4:06:37 PM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/7/2023 4:06:37 PM - Clicking User Control Panel.
+12/7/2023 4:06:37 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/7/2023 4:06:48 PM - Launching dependencies.
+12/7/2023 4:06:48 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:06:53 PM - Clicking Username field.
+12/7/2023 4:06:53 PM - Entering Username.
+12/7/2023 4:06:53 PM - Clicking password field.
+12/7/2023 4:06:53 PM - Entering password.
+12/7/2023 4:06:53 PM - Pressing Enter key.
+12/7/2023 4:06:54 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:06:56 PM - Clicking Search Bar.
+12/7/2023 4:06:59 PM - Inserting Store Number.
+12/7/2023 4:07:02 PM - Pressing Enter key.
+12/7/2023 4:07:04 PM - Clicking selected store details.
+12/7/2023 4:07:04 PM - Clicking top order details.
+12/7/2023 4:07:05 PM - Clicking Edit Driver Note.
+12/7/2023 4:07:06 PM - Clicking Note Field.
+12/7/2023 4:07:06 PM - Clearing existing notes.
+12/7/2023 4:07:06 PM - Inserting new text into note.
+12/7/2023 4:07:06 PM - Clicking Save.
+12/7/2023 4:07:06 PM - Clicking Save Order.
+12/7/2023 4:07:08 PM - Clicking No on Email Carrier.
+12/7/2023 4:07:11 PM - Closing status pop up.
+12/7/2023 4:07:14 PM - Clicking Back to All Sites
+12/7/2023 4:07:14 PM - Selecting cached site in search bar.
+12/7/2023 4:07:14 PM - Clearing cached site in search bar.
+12/7/2023 4:07:14 PM - Clicking User Control Panel.
+12/7/2023 4:07:14 PM - Click Logout.
+12/7/2023 4:12:02 PM - Launching dependencies.
+12/7/2023 4:12:02 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:12:07 PM - Clicking Username field.
+12/7/2023 4:12:07 PM - Entering Username.
+12/7/2023 4:12:07 PM - Clicking password field.
+12/7/2023 4:12:07 PM - Entering password.
+12/7/2023 4:12:07 PM - Pressing Enter key.
+12/7/2023 4:12:08 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:12:10 PM - Clicking Search Bar.
+12/7/2023 4:12:13 PM - Inserting Store Number.
+12/7/2023 4:12:16 PM - Pressing Enter key.
+12/7/2023 4:12:18 PM - Clicking selected store details.
+12/7/2023 4:12:18 PM - Clicking top order details.
+12/7/2023 4:12:19 PM - Clicking selected Delete Order.
+12/7/2023 4:12:19 PM - Clicking Yes when prompted.
+12/7/2023 4:12:20 PM - Closing status pop up.
+12/7/2023 4:12:24 PM - Clicking Back to All Sites
+12/7/2023 4:12:24 PM - Selecting cached site in search bar.
+12/7/2023 4:12:24 PM - Clearing cached site in search bar.
+12/7/2023 4:12:24 PM - Clicking User Control Panel.
+12/7/2023 4:12:25 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/7/2023 4:12:46 PM - Launching dependencies.
+12/7/2023 4:12:46 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:12:51 PM - Clicking Username field.
+12/7/2023 4:12:51 PM - Entering Username.
+12/7/2023 4:12:51 PM - Clicking password field.
+12/7/2023 4:12:51 PM - Entering password.
+12/7/2023 4:12:51 PM - Pressing Enter key.
+12/7/2023 4:12:52 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:12:54 PM - Clicking Search Bar.
+12/7/2023 4:12:57 PM - Inserting Store Number.
+12/7/2023 4:13:00 PM - Pressing Enter key.
+12/7/2023 4:13:02 PM - Click Create Order.
+12/7/2023 4:13:02 PM - Selecting Premium Unleaded 97.
+12/7/2023 4:13:02 PM - Selecting Diesel.
+12/7/2023 4:13:02 PM - Selecting Unleaded 95.
+12/7/2023 4:13:02 PM - Clicking Save Products.
+12/7/2023 4:13:32 PM - FAILED to Create Order on step: Clicking Save Products.
+12/7/2023 4:13:32 PM - Clicking User Control Panel.
+12/7/2023 4:13:33 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/7/2023 4:26:27 PM - Launching dependencies.
+12/7/2023 4:26:27 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:26:32 PM - Clicking Username field.
+12/7/2023 4:26:32 PM - Entering Username.
+12/7/2023 4:26:32 PM - Clicking password field.
+12/7/2023 4:26:33 PM - Entering password.
+12/7/2023 4:26:33 PM - Pressing Enter key.
+12/7/2023 4:26:33 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:26:35 PM - Clicking Search Bar.
+12/7/2023 4:26:38 PM - Inserting Store Number.
+12/7/2023 4:26:42 PM - Pressing Enter key.
+12/7/2023 4:26:44 PM - Clicking selected store details.
+12/7/2023 4:26:44 PM - Clicking top order details.
+12/7/2023 4:26:45 PM - Clicking Edit Driver Note.
+12/7/2023 4:26:46 PM - Clicking Note Field.
+12/7/2023 4:26:46 PM - Clearing existing notes.
+12/7/2023 4:26:46 PM - Inserting new text into note.
+12/7/2023 4:26:46 PM - Clicking Save.
+12/7/2023 4:26:46 PM - Clicking Save Order.
+12/7/2023 4:26:48 PM - Clicking No on Email Carrier.
+12/7/2023 4:26:51 PM - Closing status pop up.
+12/7/2023 4:26:54 PM - Clicking Back to All Sites
+12/7/2023 4:26:54 PM - Selecting cached site in search bar.
+12/7/2023 4:26:54 PM - Clearing cached site in search bar.
+12/7/2023 4:26:54 PM - Clicking User Control Panel.
+12/7/2023 4:26:54 PM - Click Logout.
+12/7/2023 4:27:46 PM - Launching dependencies.
+12/7/2023 4:27:47 PM - Navigating to Gravitate Portal Login Page.
+12/7/2023 4:27:51 PM - Clicking Username field.
+12/7/2023 4:27:51 PM - Entering Username.
+12/7/2023 4:27:51 PM - Clicking password field.
+12/7/2023 4:27:51 PM - Entering password.
+12/7/2023 4:27:51 PM - Pressing Enter key.
+12/7/2023 4:27:52 PM - Clicking Site Monitoring Tab.
+12/7/2023 4:27:54 PM - Clicking Search Bar.
+12/7/2023 4:27:57 PM - Inserting Store Number.
+12/7/2023 4:28:00 PM - Pressing Enter key.
+12/7/2023 4:28:02 PM - Clicking selected store details.
+12/7/2023 4:28:02 PM - Clicking top order details.
+12/7/2023 4:28:03 PM - Clicking Edit Driver Note.
+12/7/2023 4:28:04 PM - Clicking Note Field.
+12/7/2023 4:28:04 PM - Clearing existing notes.
+12/7/2023 4:28:04 PM - Inserting new text into note.
+12/7/2023 4:28:04 PM - Clicking Save.
+12/7/2023 4:28:04 PM - Clicking Save Order.
+12/7/2023 4:28:06 PM - Clicking No on Email Carrier.
+12/7/2023 4:28:09 PM - Closing status pop up.
+12/7/2023 4:28:12 PM - Clicking Back to All Sites
+12/7/2023 4:28:12 PM - Selecting cached site in search bar.
+12/7/2023 4:28:12 PM - Clearing cached site in search bar.
+12/7/2023 4:28:12 PM - Clicking User Control Panel.
+12/7/2023 4:28:12 PM - Click Logout.

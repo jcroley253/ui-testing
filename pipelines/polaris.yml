@@ -1,0 +1,20 @@
+version: "development"
+project:
+  name: ${scm.git.repo}
+  branch: ${scm.git.branch}
+  revision:
+    name: ${scm.git.commit}
+    date: ${scm.git.commit.date}
+  groups:
+    'AD-GROUP-NAME': "Administrator"
+    'AD-GROUP-NAME': "Contributor"
+    'AD-GROUP-NAME': "Observer"
+capture:
+  coverity:
+    autoCapture: enable
+analyze:
+  mode: central
+install:
+  coverity:
+    version: default
+serverUrl: POLARIS-SERVER-URL

@@ -1,0 +1,41 @@
+11/28/2023 2:57:32 PM - Launching dependencies.
+11/28/2023 2:57:37 PM - Navigating to Gravitate Portal Login Page.
+11/28/2023 2:57:44 PM - Clicking Username field.
+11/28/2023 2:57:44 PM - Entering Username.
+11/28/2023 2:57:44 PM - Clicking password field.
+11/28/2023 2:57:44 PM - Entering password.
+11/28/2023 2:57:44 PM - Pressing Enter key.
+11/28/2023 2:57:44 PM - Clicking Site Monitoring Tab.
+11/28/2023 2:57:45 PM - Clicking Search Bar.
+11/28/2023 2:57:45 PM - Inserting Store Number.
+11/28/2023 2:57:53 PM - Pressing Enter key.
+11/28/2023 2:57:55 PM - Clicking selected store details.
+11/28/2023 2:58:15 PM - FAILED to Add Order Note.
+11/28/2023 3:14:57 PM - Launching dependencies.
+11/28/2023 3:14:58 PM - Navigating to Gravitate Portal Login Page.
+11/28/2023 3:15:04 PM - Clicking Username field.
+11/28/2023 3:15:04 PM - Entering Username.
+11/28/2023 3:15:04 PM - Clicking password field.
+11/28/2023 3:15:04 PM - Entering password.
+11/28/2023 3:15:04 PM - Pressing Enter key.
+11/28/2023 3:15:04 PM - FAILED to Login to Gravitate Portal. Cancelling remaining tests
+11/28/2023 3:15:04 PM - Clicking Site Monitoring Tab.
+11/28/2023 3:15:05 PM - Clicking Search Bar.
+11/28/2023 3:15:05 PM - Inserting Store Number.
+11/28/2023 3:15:13 PM - Pressing Enter key.
+11/28/2023 3:15:15 PM - Clicking selected store details.
+11/28/2023 3:15:35 PM - FAILED to Add Order Note.
+11/28/2023 3:15:45 PM - Launching dependencies.
+11/28/2023 3:15:47 PM - Navigating to Gravitate Portal Login Page.
+11/28/2023 3:15:59 PM - Clicking Username field.
+11/28/2023 3:15:59 PM - Entering Username.
+11/28/2023 3:15:59 PM - Clicking password field.
+11/28/2023 3:15:59 PM - Entering password.
+11/28/2023 3:15:59 PM - Pressing Enter key.
+11/28/2023 3:15:59 PM - FAILED to Login to Gravitate Portal. Cancelling remaining tests
+11/28/2023 3:15:59 PM - Clicking Site Monitoring Tab.
+11/28/2023 3:16:00 PM - Clicking Search Bar.
+11/28/2023 3:16:00 PM - Inserting Store Number.
+11/28/2023 3:16:08 PM - Pressing Enter key.
+11/28/2023 3:16:10 PM - Clicking selected store details.
+11/28/2023 3:16:30 PM - FAILED to Add Order Note.

@@ -1,0 +1,85 @@
+name: gvt-unit-testing-build
+trigger:   
+  branches:
+    include: 
+    - main
+  paths:
+    include:
+    - gravitate-tests
+
+pool:
+  vmImage: "windows-latest"
+
+variables:
+  - group: fuel-qa
+  - name: username
+    value: '$(gvt_username)'
+  - name: password
+    value: '$(gvt_password)'
+  - name: url
+    value: '$(gvt_portal)'
+  - name: solution
+    value: "**/gravitate-tests/*.sln"
+  - name: project_path
+    value: '**/gravitate-tests/gravitate-test-automation'
+    
+stages:
+- stage: SecurityScans
+  displayName: 'Security Scans'
+  jobs:
+  - job: SCA_Scan
+    displayName: Blackduck-SCA-Scan
+    steps:
+    - checkout: self
+      displayName: Checkout Repo
+    - task: SynopsysDetectTask@8
+      inputs: 
+        BlackDuckService: 'BlackDuck'
+        DetectArguments: |
+
+          --detect.project.name=$(Build.Repository.Name)
+          --detect.project.version.name="development"
+          --detect.project.group=Fuel
+          --detect.detector.search.depth=4
+        DetectVerison: 'latest'
+
+  - job: SAST_Scan
+    displayName: Synopsys-Polaris-SAST-Scan
+    steps:
+    - task: synopsys-polaris.synopsys-polaris.synopsys-polaris-task.SynopsysPolaris@1
+      displayName: 'Synopsys Polaris Scan'
+      inputs:
+        polarisService: 'Polaris Software Integrity Platform'
+        polarisCommand: 'analyze -w'
+        waitForIssues: true
+
+- stage: Build
+  displayName: 'Build'
+  jobs:
+  - job: 'Build_Solution'
+    displayName: 'Restore and build solution'
+    steps:
+    - task: FileTransform@1
+      displayName: 'Importing Variables'
+      inputs:
+        folderPath: '$(project_path)'
+        fileType: 'json'
+        targetFiles: appsettings.json
+
+    - task: UseDotNet@2
+      displayName: 'Updating Framework to .NET 6'
+      inputs:
+        packageType: 'sdk'
+        version: 6.x
+
+    - task: DotNetCoreCLI@2
+      displayName: 'Build Solution'
+      inputs:
+        command: build
+        projects: '$(project_path)/*.csproj'
+
+    - task: PublishBuildArtifacts@1
+      displayName: 'Publish Artifact'
+      inputs:
+        PathtoPublish: '$(System.DefaultWorkingDirectory)/gravitate-tests'
+        artifactName: gvt-unit-tests

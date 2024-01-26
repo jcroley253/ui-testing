@@ -7,17 +7,56 @@
     <Nullable>enable</Nullable>
 
     <IsPackable>false</IsPackable>
+    <UserSecretsId>a9c3a090-5176-40b4-a84f-c81c9e1a305f</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
-    <PackageReference Include="NUnit" Version="3.13.3" />
-    <PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
-    <PackageReference Include="NUnit.Analyzers" Version="3.3.0" />
-    <PackageReference Include="coverlet.collector" Version="3.1.2" />
-    <PackageReference Include="Selenium.Support" Version="4.11.0" />
-    <PackageReference Include="Selenium.WebDriver" Version="4.11.0" />
-    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="116.0.5845.9600" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="NUnit" Version="4.0.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.10.0"><IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+<PrivateAssets>all</PrivateAssets>
+</PackageReference>
+    <PackageReference Include="coverlet.collector" Version="6.0.0"><IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+<PrivateAssets>all</PrivateAssets>
+</PackageReference>
+    <PackageReference Include="Selenium.Support" Version="4.16.2" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.16.2" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="120.0.6099.7100" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="8.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="site_monitoring\" />
+    <None Remove="model_management\" />
+    <None Remove="admin\location\" />
+    <None Remove="admin\vehicle\" />
+    <None Remove="admin\freight\" />
+    <None Remove="admin\user_groups\" />
+    <None Remove="admin\site\" />
+    <None Remove="order_management\" />
+    <None Remove="analytics_and_reporting\" />
+    <None Remove="inventory\" />
+    <None Remove="supply_and_directives\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="site_monitoring\" />
+    <Folder Include="model_management\" />
+    <Folder Include="admin\location\" />
+    <Folder Include="admin\vehicle\" />
+    <Folder Include="admin\freight\" />
+    <Folder Include="admin\user_groups\" />
+    <Folder Include="admin\site\" />
+    <Folder Include="order_management\" />
+    <Folder Include="analytics_and_reporting\" />
+    <Folder Include="inventory\" />
+    <Folder Include="supply_and_directives\" />
+  </ItemGroup>
 </Project>

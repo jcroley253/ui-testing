@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gravitate_test_automation
-build_property.ProjectDir = /Users/jcroley/Desktop/Side Projects/ui-tests/gravitate-test-automation/
+build_property.ProjectDir = /Users/jcroley/Desktop/Projects/fuel-qa-tool-suite/gravitate-tests/gravitate-test-automation/

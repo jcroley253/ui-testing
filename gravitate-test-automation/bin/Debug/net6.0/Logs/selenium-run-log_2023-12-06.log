@@ -1,0 +1,81 @@
+12/6/2023 11:58:44 AM - Launching dependencies.
+12/6/2023 11:58:45 AM - Navigating to Gravitate Portal Login Page.
+12/6/2023 11:58:52 AM - Clicking Username field.
+12/6/2023 11:58:52 AM - Entering Username.
+12/6/2023 11:58:52 AM - Clicking password field.
+12/6/2023 11:58:52 AM - Entering password.
+12/6/2023 11:58:52 AM - Pressing Enter key.
+12/6/2023 11:58:52 AM - Clicking Site Monitoring Tab.
+12/6/2023 11:58:55 AM - Clicking Search Bar.
+12/6/2023 11:58:58 AM - Inserting Store Number.
+12/6/2023 11:59:01 AM - Pressing Enter key.
+12/6/2023 11:59:03 AM - Clicking selected store details.
+12/6/2023 11:59:03 AM - Clicking top order details.
+12/6/2023 11:59:04 AM - Clicking Edit Driver Note.
+12/6/2023 11:59:04 AM - Clicking Note Field.
+12/6/2023 11:59:05 AM - Clearing existing notes.
+12/6/2023 11:59:05 AM - Inserting new text into note.
+12/6/2023 11:59:05 AM - Clicking Save.
+12/6/2023 11:59:05 AM - Clicking Save Order.
+12/6/2023 11:59:07 AM - Clicking No on Email Carrier.
+12/6/2023 11:59:09 AM - Closing status pop up.
+12/6/2023 11:59:12 AM - Clicking Back to All Sites
+12/6/2023 11:59:13 AM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/6/2023 11:59:13 AM - Clicking User Control Panel.
+12/6/2023 11:59:13 AM - Click Logout.
+12/6/2023 12:05:18 PM - Launching dependencies.
+12/6/2023 12:05:19 PM - Navigating to Gravitate Portal Login Page.
+12/6/2023 12:05:25 PM - Clicking Username field.
+12/6/2023 12:05:26 PM - Entering Username.
+12/6/2023 12:05:26 PM - Clicking password field.
+12/6/2023 12:05:26 PM - Entering password.
+12/6/2023 12:05:26 PM - Pressing Enter key.
+12/6/2023 12:05:26 PM - Click Admin tab.
+12/6/2023 12:05:26 PM - Select Sites.
+12/6/2023 12:05:57 PM - FAILED to Create Tank on step: Select Sites.
+12/6/2023 12:05:59 PM - Click Admin tab.
+12/6/2023 12:05:59 PM - Click Tank option.
+12/6/2023 12:06:29 PM - FAILED to Delete Tank on step: Click Tank option.
+12/6/2023 12:06:29 PM - Click Admin tab.
+12/6/2023 12:06:29 PM - Click Product option.
+12/6/2023 12:06:59 PM - Navigating to Gravitate Portal Login Page.
+12/6/2023 12:06:59 PM - Clicking Username field.
+12/6/2023 12:07:29 PM - FAILED to Login to Gravitate Portal on step: Clicking Username field. Cancelling remaining tests
+12/6/2023 12:07:29 PM - Clicking User Control Panel.
+12/6/2023 12:07:29 PM - Click Logout.
+12/6/2023 12:10:40 PM - Launching dependencies.
+12/6/2023 12:10:41 PM - Navigating to Gravitate Portal Login Page.
+12/6/2023 12:10:47 PM - Clicking Username field.
+12/6/2023 12:10:47 PM - Entering Username.
+12/6/2023 12:10:47 PM - Clicking password field.
+12/6/2023 12:10:47 PM - Entering password.
+12/6/2023 12:10:48 PM - Pressing Enter key.
+12/6/2023 12:10:48 PM - Click Admin tab.
+12/6/2023 12:10:48 PM - Select Sites.
+12/6/2023 12:11:10 PM - Click Create Tank.
+12/6/2023 12:11:10 PM - Select Store ID field.
+12/6/2023 12:11:16 PM - FAILED to Create Tank on step: Select Store ID field.
+12/6/2023 12:11:19 PM - Click Admin tab.
+12/6/2023 12:11:19 PM - FAILED to Delete Tank on step: Click Admin tab.
+12/6/2023 12:11:19 PM - Click Admin tab.
+12/6/2023 12:11:19 PM - FAILED to Create Site.
+12/6/2023 12:11:19 PM - Clicking User Control Panel.
+12/6/2023 12:11:19 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/6/2023 12:12:01 PM - Launching dependencies.
+12/6/2023 12:12:02 PM - Navigating to Gravitate Portal Login Page.
+12/6/2023 12:12:08 PM - Clicking Username field.
+12/6/2023 12:12:08 PM - Entering Username.
+12/6/2023 12:12:08 PM - Clicking password field.
+12/6/2023 12:12:08 PM - Entering password.
+12/6/2023 12:12:08 PM - Pressing Enter key.
+12/6/2023 12:12:09 PM - Click Admin tab.
+12/6/2023 12:12:09 PM - Select Sites.
+12/6/2023 12:12:39 PM - FAILED to Create Tank on step: Select Sites.
+12/6/2023 12:12:41 PM - Click Admin tab.
+12/6/2023 12:12:41 PM - Click Tank option.
+12/6/2023 12:13:11 PM - FAILED to Delete Tank on step: Click Tank option.
+12/6/2023 12:13:11 PM - Click Admin tab.
+12/6/2023 12:13:11 PM - Click Product option.
+12/6/2023 12:14:12 PM - FAILED to Create Site.
+12/6/2023 12:14:12 PM - Clicking User Control Panel.
+12/6/2023 12:14:12 PM - Click Logout.

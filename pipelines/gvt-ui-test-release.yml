@@ -1,0 +1,30 @@
+name: 'GVT Unit Test Release Pipeline'
+trigger: none
+
+pool:
+  vmImage: "windows-latest"
+
+stages:
+- stage: executeTests
+  displayName: 'GVT Unit Test Execution'
+  jobs:
+  - job: build_execute
+    displayName: 'Build and Execute Tests'
+    steps:
+    - task: UseDotNet@2
+      displayName: 'Update .NET SDK'
+      inputs:
+        version: 6.0.x
+
+    - task: ms-autotest.screen-resolution-utility-task.screen-resolution-utlity-task.ScreenResolutionUtility@1
+      displayName: 'Set Optimal Screen Resolution for GVT Portal'
+
+    - task: VisualStudioTestPlatformInstaller@1
+      displayName: 'Visual Studio Test Platform Installer'
+
+    - task: VSTest@2
+      displayName: 'Execute Unit Tests'
+      inputs:
+        testSelector: testRun
+        vsTestVersion: toolsInstaller
+        testRunTitle: 'GVT Automated Tests'

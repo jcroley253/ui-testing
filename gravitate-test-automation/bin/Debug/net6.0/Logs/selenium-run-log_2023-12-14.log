@@ -1,0 +1,272 @@
+12/14/2023 9:06:49 AM - Launching dependencies.
+12/14/2023 9:06:51 AM - Navigating to Gravitate Portal Login Page.
+12/14/2023 9:06:51 AM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page.:  Cancelling remaining tests
+12/14/2023 9:06:51 AM - FAILED to launch dependencies.
+12/14/2023 9:06:51 AM - Clicking User Control Panel.
+12/14/2023 9:07:21 AM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/14/2023 9:08:02 AM - Launching dependencies.
+12/14/2023 9:08:03 AM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 9:08:15 AM - Clicking Username field.
+12/14/2023 9:08:15 AM - Entering Username.
+12/14/2023 9:08:15 AM - Clicking password field.
+12/14/2023 9:08:15 AM - Entering password.
+12/14/2023 9:08:15 AM - Pressing Enter key.
+12/14/2023 9:08:15 AM - Validating login.
+12/14/2023 9:08:16 AM - Clicking Site Monitoring Tab.
+12/14/2023 9:08:18 AM - Clicking Search Bar.
+12/14/2023 9:08:21 AM - Inserting Store Number.
+12/14/2023 9:08:24 AM - Pressing Enter key.
+12/14/2023 9:08:26 AM - Clicking selected store details.
+12/14/2023 9:08:26 AM - Clicking top order details.
+12/14/2023 9:08:56 AM - FAILED to Add Order Note on step: Clicking top order details.
+12/14/2023 9:08:56 AM - Clicking User Control Panel.
+12/14/2023 9:08:56 AM - Click Logout.
+12/14/2023 9:10:36 AM - Launching dependencies.
+12/14/2023 9:10:37 AM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 9:10:43 AM - Clicking Username field.
+12/14/2023 9:10:43 AM - Entering Username.
+12/14/2023 9:10:43 AM - Clicking password field.
+12/14/2023 9:10:43 AM - Entering password.
+12/14/2023 9:10:43 AM - Pressing Enter key.
+12/14/2023 9:10:43 AM - Validating login.
+12/14/2023 9:10:44 AM - Clicking Site Monitoring Tab.
+12/14/2023 9:10:46 AM - Clicking Search Bar.
+12/14/2023 9:11:16 AM - FAILED to Add Order Note on step: Clicking Search Bar.
+12/14/2023 9:11:16 AM - Clicking User Control Panel.
+12/14/2023 9:11:16 AM - Click Logout.
+12/14/2023 9:13:16 AM - Launching dependencies.
+12/14/2023 9:13:27 AM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 9:13:30 AM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page.: https://costco-test.bb.gravitate.energy/ Cancelling remaining tests
+12/14/2023 9:13:30 AM - FAILED to launch dependencies.
+12/14/2023 9:13:30 AM - Clicking User Control Panel.
+12/14/2023 9:13:30 AM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/14/2023 9:32:05 AM - Launching dependencies.
+12/14/2023 9:32:06 AM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 9:32:13 AM - Clicking Username field.
+12/14/2023 9:32:13 AM - Entering Username.
+12/14/2023 9:32:13 AM - Clicking password field.
+12/14/2023 9:32:13 AM - Entering password.
+12/14/2023 9:32:13 AM - Pressing Enter key.
+12/14/2023 9:32:13 AM - Validating login.
+12/14/2023 9:32:14 AM - Clicking Site Monitoring Tab.
+12/14/2023 9:32:16 AM - Clicking Search Bar.
+12/14/2023 9:32:19 AM - Inserting Store Number.
+12/14/2023 9:32:22 AM - Pressing Enter key.
+12/14/2023 9:32:24 AM - Clicking selected store details.
+12/14/2023 9:32:24 AM - Clicking top order details.
+12/14/2023 9:32:25 AM - Clicking Edit Driver Note.
+12/14/2023 9:32:26 AM - Clicking Note Field.
+12/14/2023 9:32:26 AM - Clearing existing notes.
+12/14/2023 9:32:26 AM - Inserting new text into note.
+12/14/2023 9:32:26 AM - Clicking Save.
+12/14/2023 9:32:26 AM - Clicking Save Order.
+12/14/2023 9:32:28 AM - Clicking No on Email Carrier.
+12/14/2023 9:32:31 AM - Closing status pop up.
+12/14/2023 9:32:34 AM - Clicking Back to All Sites
+12/14/2023 9:32:34 AM - Selecting cached site in search bar.
+12/14/2023 9:32:34 AM - Clearing cached site in search bar.
+12/14/2023 9:32:34 AM - Clicking User Control Panel.
+12/14/2023 9:32:34 AM - Click Logout.
+12/14/2023 9:44:09 AM - Launching dependencies.
+12/14/2023 9:44:10 AM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 9:44:16 AM - Clicking Username field.
+12/14/2023 9:44:16 AM - Entering Username.
+12/14/2023 9:44:16 AM - Clicking password field.
+12/14/2023 9:44:16 AM - Entering password.
+12/14/2023 9:44:16 AM - Pressing Enter key.
+12/14/2023 9:44:16 AM - Validating login.
+12/14/2023 9:44:17 AM - Clicking Site Monitoring Tab.
+12/14/2023 9:44:19 AM - Clicking Search Bar.
+12/14/2023 9:44:22 AM - Inserting Store Number.
+12/14/2023 9:44:25 AM - Pressing Enter key.
+12/14/2023 9:44:27 AM - Clicking selected store details.
+12/14/2023 9:44:27 AM - Clicking top order details.
+12/14/2023 9:44:28 AM - Clicking Edit Driver Note.
+12/14/2023 9:44:29 AM - Clicking Note Field.
+12/14/2023 9:44:29 AM - Clearing existing notes.
+12/14/2023 9:44:29 AM - Inserting new text into note.
+12/14/2023 9:44:29 AM - Clicking Save.
+12/14/2023 9:44:29 AM - Clicking Save Order.
+12/14/2023 9:44:31 AM - Clicking No on Email Carrier.
+12/14/2023 9:44:34 AM - Closing status pop up.
+12/14/2023 9:44:37 AM - Clicking Back to All Sites
+12/14/2023 9:44:37 AM - Selecting cached site in search bar.
+12/14/2023 9:44:37 AM - Clearing cached site in search bar.
+12/14/2023 9:44:37 AM - Clicking User Control Panel.
+12/14/2023 9:44:37 AM - Click Logout.
+12/14/2023 2:30:34 PM - Launching dependencies.
+12/14/2023 2:30:39 PM - Navigating to Gravitate Portal Login Page.
+12/14/2023 2:30:39 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page.:  Cancelling remaining tests
+12/14/2023 2:30:39 PM - FAILED to launch dependencies.
+12/14/2023 2:30:39 PM - Clicking User Control Panel.
+12/14/2023 2:30:44 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/14/2023 2:30:57 PM - Launching dependencies.
+12/14/2023 2:30:57 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:31:05 PM - Clicking Username field.
+12/14/2023 2:31:05 PM - Entering Username.
+12/14/2023 2:31:05 PM - Clicking password field.
+12/14/2023 2:31:05 PM - Entering password.
+12/14/2023 2:31:05 PM - Pressing Enter key.
+12/14/2023 2:31:05 PM - Validating login.
+12/14/2023 2:31:06 PM - Clicking Site Monitoring Tab.
+12/14/2023 2:31:08 PM - Clicking Search Bar.
+12/14/2023 2:31:11 PM - Inserting Store Number.
+12/14/2023 2:31:14 PM - Pressing Enter key.
+12/14/2023 2:31:16 PM - Clicking selected store details.
+12/14/2023 2:31:16 PM - Clicking top order details.
+12/14/2023 2:31:17 PM - Clicking Edit Driver Note.
+12/14/2023 2:31:17 PM - Clicking Note Field.
+12/14/2023 2:31:17 PM - Clearing existing notes.
+12/14/2023 2:31:17 PM - Inserting new text into note.
+12/14/2023 2:31:18 PM - Clicking Save.
+12/14/2023 2:31:18 PM - Clicking Save Order.
+12/14/2023 2:31:20 PM - Clicking No on Email Carrier.
+12/14/2023 2:31:23 PM - Closing status pop up.
+12/14/2023 2:31:26 PM - Clicking Back to All Sites
+12/14/2023 2:31:26 PM - Selecting cached site in search bar.
+12/14/2023 2:31:26 PM - Clearing cached site in search bar.
+12/14/2023 2:31:26 PM - Clicking User Control Panel.
+12/14/2023 2:31:26 PM - Click Logout.
+12/14/2023 2:32:14 PM - Launching dependencies.
+12/14/2023 2:32:15 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:32:22 PM - Clicking Username field.
+12/14/2023 2:32:22 PM - Entering Username.
+12/14/2023 2:32:22 PM - Clicking password field.
+12/14/2023 2:32:22 PM - Entering password.
+12/14/2023 2:32:22 PM - Pressing Enter key.
+12/14/2023 2:32:22 PM - Validating login.
+12/14/2023 2:32:23 PM - Clicking Site Monitoring Tab.
+12/14/2023 2:32:25 PM - Clicking Search Bar.
+12/14/2023 2:32:55 PM - Stuck on Site Details screen. Navigating back to Site Monitoring home page.
+12/14/2023 2:32:55 PM - Clicking Back to All Sites
+12/14/2023 2:32:56 PM - FAILED to Add Order Note on step: Clicking Back to All Sites
+12/14/2023 2:32:56 PM - Clicking User Control Panel.
+12/14/2023 2:32:56 PM - Click Logout.
+12/14/2023 2:43:58 PM - Launching dependencies.
+12/14/2023 2:43:59 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:44:06 PM - Clicking Username field.
+12/14/2023 2:44:06 PM - Entering Username.
+12/14/2023 2:44:06 PM - Clicking password field.
+12/14/2023 2:44:06 PM - Entering password.
+12/14/2023 2:44:06 PM - Pressing Enter key.
+12/14/2023 2:44:06 PM - Validating login.
+12/14/2023 2:44:07 PM - Clicking Site Monitoring Tab.
+12/14/2023 2:44:08 PM - FAILED to Add Order Note on step: Clicking Site Monitoring Tab.
+12/14/2023 2:44:08 PM - Clicking User Control Panel.
+12/14/2023 2:44:08 PM - Click Logout.
+12/14/2023 2:44:52 PM - Launching dependencies.
+12/14/2023 2:44:53 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:45:00 PM - Clicking Username field.
+12/14/2023 2:45:00 PM - Entering Username.
+12/14/2023 2:45:00 PM - Clicking password field.
+12/14/2023 2:45:00 PM - Entering password.
+12/14/2023 2:45:00 PM - Pressing Enter key.
+12/14/2023 2:45:00 PM - Validating login.
+12/14/2023 2:45:00 PM - Expanding Menu.
+12/14/2023 2:45:02 PM - FAILED to Add Order Note on step: Expanding Menu.
+12/14/2023 2:45:02 PM - Clicking User Control Panel.
+12/14/2023 2:45:02 PM - Click Logout.
+12/14/2023 2:50:10 PM - Launching dependencies.
+12/14/2023 2:50:11 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:50:19 PM - Clicking Username field.
+12/14/2023 2:50:19 PM - Entering Username.
+12/14/2023 2:50:19 PM - Clicking password field.
+12/14/2023 2:50:19 PM - Entering password.
+12/14/2023 2:50:19 PM - Pressing Enter key.
+12/14/2023 2:50:19 PM - Validating login.
+12/14/2023 2:50:19 PM - Expanding Menu.
+12/14/2023 2:50:50 PM - FAILED to Add Order Note on step: Expanding Menu.
+12/14/2023 2:50:50 PM - Clicking User Control Panel.
+12/14/2023 2:50:50 PM - Click Logout.
+12/14/2023 2:53:16 PM - Launching dependencies.
+12/14/2023 2:53:16 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:53:23 PM - Clicking Username field.
+12/14/2023 2:53:23 PM - Entering Username.
+12/14/2023 2:53:23 PM - Clicking password field.
+12/14/2023 2:53:23 PM - Entering password.
+12/14/2023 2:53:23 PM - Pressing Enter key.
+12/14/2023 2:53:23 PM - Validating login.
+12/14/2023 2:53:24 PM - Clicking Site Monitoring Tab.
+12/14/2023 2:53:26 PM - Clicking Search Bar.
+12/14/2023 2:53:56 PM - Stuck on Site Details screen. Navigating back to Site Monitoring home page.
+12/14/2023 2:53:56 PM - Clicking Back to All Sites
+12/14/2023 2:53:56 PM - Selecting cached site in search bar.
+12/14/2023 2:53:56 PM - Clearing cached site in search bar.
+12/14/2023 2:53:56 PM - Clicking Search Bar.
+12/14/2023 2:54:00 PM - Clicking Search Bar.
+12/14/2023 2:54:03 PM - Clicking Search Bar.
+12/14/2023 2:54:06 PM - Clicking Search Bar.
+12/14/2023 2:54:09 PM - Clicking Search Bar.
+12/14/2023 2:54:12 PM - Clicking Search Bar.
+12/14/2023 2:54:15 PM - Clicking Search Bar.
+12/14/2023 2:54:18 PM - Clicking Search Bar.
+12/14/2023 2:54:21 PM - Clicking Search Bar.
+12/14/2023 2:54:24 PM - Clicking Search Bar.
+12/14/2023 2:54:27 PM - Clicking Search Bar.
+12/14/2023 2:54:30 PM - Clicking Search Bar.
+12/14/2023 2:54:33 PM - Clicking Search Bar.
+12/14/2023 2:54:36 PM - Clicking Search Bar.
+12/14/2023 2:54:36 PM - FAILED to navigate back to Site Monitoring home page. Manually navigate to the home page and clear cached information.
+12/14/2023 2:54:36 PM - FAILED to Add Order Note on step: FAILED to navigate back to Site Monitoring home page. Manually navigate to the home page and clear cached information.
+12/14/2023 2:54:36 PM - Clicking User Control Panel.
+12/14/2023 2:54:36 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/14/2023 2:55:55 PM - Launching dependencies.
+12/14/2023 2:55:56 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:56:03 PM - Clicking Username field.
+12/14/2023 2:56:03 PM - Entering Username.
+12/14/2023 2:56:03 PM - Clicking password field.
+12/14/2023 2:56:03 PM - Entering password.
+12/14/2023 2:56:03 PM - Pressing Enter key.
+12/14/2023 2:56:03 PM - Validating login.
+12/14/2023 2:56:04 PM - Clicking Site Monitoring Tab.
+12/14/2023 2:56:06 PM - Clicking Search Bar.
+12/14/2023 2:56:09 PM - Clicking Search Bar.
+12/14/2023 2:56:12 PM - Inserting Store Number.
+12/14/2023 2:56:15 PM - Pressing Enter key.
+12/14/2023 2:56:17 PM - Clicking selected store details.
+12/14/2023 2:56:17 PM - Clicking top order details.
+12/14/2023 2:56:18 PM - Clicking Edit Driver Note.
+12/14/2023 2:56:19 PM - Clicking Note Field.
+12/14/2023 2:56:19 PM - Clearing existing notes.
+12/14/2023 2:56:19 PM - Inserting new text into note.
+12/14/2023 2:56:19 PM - Clicking Save.
+12/14/2023 2:56:19 PM - Clicking Save Order.
+12/14/2023 2:56:21 PM - Clicking No on Email Carrier.
+12/14/2023 2:56:24 PM - Closing status pop up.
+12/14/2023 2:56:27 PM - Clicking Back to All Sites
+12/14/2023 2:56:27 PM - Selecting cached site in search bar.
+12/14/2023 2:56:27 PM - Clearing cached site in search bar.
+12/14/2023 2:56:27 PM - Clicking User Control Panel.
+12/14/2023 2:56:27 PM - Click Logout.
+12/14/2023 2:58:20 PM - Launching dependencies.
+12/14/2023 2:58:21 PM - Navigating to Gravitate Portal Login Page.https://costco-test.bb.gravitate.energy/
+12/14/2023 2:58:28 PM - Clicking Username field.
+12/14/2023 2:58:28 PM - Entering Username.
+12/14/2023 2:58:28 PM - Clicking password field.
+12/14/2023 2:58:28 PM - Entering password.
+12/14/2023 2:58:28 PM - Pressing Enter key.
+12/14/2023 2:58:28 PM - Validating login.
+12/14/2023 2:58:28 PM - Clicking Site Monitoring Tab.
+12/14/2023 2:58:30 PM - Clicking Search Bar.
+12/14/2023 2:59:00 PM - Stuck on Site Details screen. Navigating back to Site Monitoring home page.
+12/14/2023 2:59:00 PM - Clicking Back to All Sites
+12/14/2023 2:59:01 PM - Selecting cached site in search bar.
+12/14/2023 2:59:01 PM - Clearing cached site in search bar.
+12/14/2023 2:59:01 PM - Clicking Search Bar.
+12/14/2023 2:59:04 PM - Inserting Store Number.
+12/14/2023 2:59:07 PM - Pressing Enter key.
+12/14/2023 2:59:09 PM - Clicking selected store details.
+12/14/2023 2:59:09 PM - Clicking top order details.
+12/14/2023 2:59:10 PM - Clicking Edit Driver Note.
+12/14/2023 2:59:10 PM - Clicking Note Field.
+12/14/2023 2:59:10 PM - Clearing existing notes.
+12/14/2023 2:59:10 PM - Inserting new text into note.
+12/14/2023 2:59:10 PM - Clicking Save.
+12/14/2023 2:59:11 PM - Clicking Save Order.
+12/14/2023 2:59:13 PM - Clicking No on Email Carrier.
+12/14/2023 2:59:16 PM - Closing status pop up.
+12/14/2023 2:59:19 PM - Clicking Back to All Sites
+12/14/2023 2:59:19 PM - Selecting cached site in search bar.
+12/14/2023 2:59:19 PM - Clearing cached site in search bar.
+12/14/2023 2:59:19 PM - Clicking User Control Panel.
+12/14/2023 2:59:19 PM - Click Logout.

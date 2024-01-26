@@ -3,6 +3,8 @@ namespace gravitate_test_automation
 {
 	public class logIt
 	{
+        public static string? message;
+
         public static void LogIt(string message)
         {
             string logPath = AppDomain.CurrentDomain.BaseDirectory + "Logs";
@@ -16,6 +18,8 @@ namespace gravitate_test_automation
             {
                 sw.WriteLine(DateTime.Now + " - " + message);
             }
+
+            Console.WriteLine(message);
         }
     }
 }

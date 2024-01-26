@@ -1,0 +1,230 @@
+12/5/2023 12:37:24 PM - Launching dependencies.
+12/5/2023 12:37:26 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 12:37:32 PM - Clicking Username field.
+12/5/2023 12:37:32 PM - Entering Username.
+12/5/2023 12:37:32 PM - Clicking password field.
+12/5/2023 12:37:32 PM - Entering password.
+12/5/2023 12:37:32 PM - Pressing Enter key.
+12/5/2023 12:37:32 PM - Clicking Site Monitoring Tab.
+12/5/2023 12:38:02 PM - FAILED to Create Order on step: Clicking Site Monitoring Tab.
+12/5/2023 12:38:02 PM - Clicking User Control Panel.
+12/5/2023 12:38:03 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 1:02:21 PM - Launching dependencies.
+12/5/2023 1:02:22 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 1:02:32 PM - Clicking Username field.
+12/5/2023 1:02:32 PM - Entering Username.
+12/5/2023 1:02:33 PM - Clicking password field.
+12/5/2023 1:02:33 PM - Entering password.
+12/5/2023 1:02:33 PM - Pressing Enter key.
+12/5/2023 1:02:33 PM - Clicking Site Monitoring Tab.
+12/5/2023 1:02:35 PM - Clicking Search Bar.
+12/5/2023 1:02:38 PM - Inserting Store Number.
+12/5/2023 1:02:41 PM - Pressing Enter key.
+12/5/2023 1:02:44 PM - Clicking selected store details.
+12/5/2023 1:03:14 PM - FAILED to Create Order on step: Clicking selected store details.
+12/5/2023 1:03:14 PM - Clicking User Control Panel.
+12/5/2023 1:03:14 PM - Click Logout.
+12/5/2023 1:03:50 PM - Launching dependencies.
+12/5/2023 1:03:51 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 1:03:58 PM - Clicking Username field.
+12/5/2023 1:03:58 PM - Entering Username.
+12/5/2023 1:03:58 PM - Clicking password field.
+12/5/2023 1:03:58 PM - Entering password.
+12/5/2023 1:03:58 PM - Pressing Enter key.
+12/5/2023 1:03:58 PM - Clicking Site Monitoring Tab.
+12/5/2023 1:04:01 PM - Clicking Search Bar.
+12/5/2023 1:04:04 PM - Inserting Store Number.
+12/5/2023 1:04:07 PM - Pressing Enter key.
+12/5/2023 1:04:09 PM - Clicking selected store details.
+12/5/2023 1:04:39 PM - FAILED to Add Order Note on step: Clicking selected store details.
+12/5/2023 1:04:39 PM - Clicking User Control Panel.
+12/5/2023 1:04:39 PM - Click Logout.
+12/5/2023 1:12:45 PM - Launching dependencies.
+12/5/2023 1:12:46 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 1:12:52 PM - Clicking Username field.
+12/5/2023 1:12:52 PM - Entering Username.
+12/5/2023 1:12:52 PM - Clicking password field.
+12/5/2023 1:12:52 PM - Entering password.
+12/5/2023 1:12:52 PM - Pressing Enter key.
+12/5/2023 1:12:52 PM - Clicking Site Monitoring Tab.
+12/5/2023 1:12:55 PM - Clicking Search Bar.
+12/5/2023 1:13:00 PM - Inserting Store Number.
+12/5/2023 1:13:03 PM - Pressing Enter key.
+12/5/2023 1:13:05 PM - Clicking selected store details.
+12/5/2023 1:13:05 PM - Clicking top order details.
+12/5/2023 1:13:06 PM - Clicking Edit Driver Note.
+12/5/2023 1:13:06 PM - Clicking Note Field.
+12/5/2023 1:13:06 PM - Clearing existing notes.
+12/5/2023 1:13:06 PM - Inserting new text into note.
+12/5/2023 1:13:06 PM - Clicking Save.
+12/5/2023 1:13:06 PM - Clicking Save Order.
+12/5/2023 1:13:08 PM - Clicking No on Email Carrier.
+12/5/2023 1:13:10 PM - Closing status pop up.
+12/5/2023 1:13:13 PM - Clicking User Control Panel.
+12/5/2023 1:13:13 PM - Click Logout.
+12/5/2023 1:16:42 PM - Launching dependencies.
+12/5/2023 1:16:43 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 1:16:50 PM - Clicking Username field.
+12/5/2023 1:16:50 PM - Entering Username.
+12/5/2023 1:16:50 PM - Clicking password field.
+12/5/2023 1:16:50 PM - Entering password.
+12/5/2023 1:16:50 PM - Pressing Enter key.
+12/5/2023 1:16:50 PM - Clicking Site Monitoring Tab.
+12/5/2023 1:16:52 PM - Clicking Search Bar.
+12/5/2023 1:16:58 PM - Inserting Store Number.
+12/5/2023 1:17:02 PM - Pressing Enter key.
+12/5/2023 1:17:04 PM - Clicking selected store details.
+12/5/2023 1:17:04 PM - Click Create Order.
+12/5/2023 1:17:04 PM - Selecting Premium Unleaded 97.
+12/5/2023 1:17:04 PM - Selecting Diesel.
+12/5/2023 1:17:04 PM - Selecting Unleaded 95.
+12/5/2023 1:17:05 PM - Clicking Save Products.
+12/5/2023 1:17:05 PM - Clicking Create Order.
+12/5/2023 1:17:06 PM - Clicking OK on Success.
+12/5/2023 1:17:06 PM - Closing status pop up.
+12/5/2023 1:17:09 PM - Clicking User Control Panel.
+12/5/2023 1:17:09 PM - Click Logout.
+12/5/2023 1:44:44 PM - Launching dependencies.
+12/5/2023 1:44:45 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 1:44:52 PM - Clicking Username field.
+12/5/2023 1:44:52 PM - Entering Username.
+12/5/2023 1:44:52 PM - Clicking password field.
+12/5/2023 1:44:52 PM - Entering password.
+12/5/2023 1:44:52 PM - Pressing Enter key.
+12/5/2023 1:44:52 PM - Clicking Site Monitoring Tab.
+12/5/2023 1:44:55 PM - Clicking Search Bar.
+12/5/2023 1:44:58 PM - Inserting Store Number.
+12/5/2023 1:45:01 PM - Pressing Enter key.
+12/5/2023 1:45:03 PM - Clicking selected store details.
+12/5/2023 1:45:03 PM - Clicking top order details.
+12/5/2023 1:45:33 PM - FAILED to Move Order on step: Clicking top order details.
+12/5/2023 1:45:33 PM - Clicking User Control Panel.
+12/5/2023 1:45:33 PM - Click Logout.
+12/5/2023 3:06:47 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:06:47 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:06:47 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 3:10:52 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:10:52 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:10:52 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 3:16:34 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:16:34 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:16:34 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 3:17:19 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:17:19 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:17:19 PM - FAILED to Move Order on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 3:19:50 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:19:50 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:19:50 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 3:22:20 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:22:20 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:22:20 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 3:23:36 PM - Launching dependencies.
+12/5/2023 3:23:37 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:23:44 PM - Clicking Username field.
+12/5/2023 3:23:44 PM - Entering Username.
+12/5/2023 3:23:44 PM - Clicking password field.
+12/5/2023 3:23:44 PM - Entering password.
+12/5/2023 3:23:44 PM - Pressing Enter key.
+12/5/2023 3:23:44 PM - Clicking Model Management Tab.
+12/5/2023 3:23:45 PM - Select Model Optimizer.
+12/5/2023 3:23:45 PM - Clicking Search for Market bar.
+12/5/2023 3:23:46 PM - Entering Market 1.
+12/5/2023 3:23:49 PM - Inserting Enter Key.
+12/5/2023 3:23:50 PM - Expanding Start drop down.
+12/5/2023 3:23:50 PM - Inserting Enter Key.
+12/5/2023 3:23:50 PM - Expand Duration drop down.
+12/5/2023 3:23:50 PM - Inserting Enter Key.
+12/5/2023 3:23:50 PM - Click Run New Model.
+12/5/2023 3:23:50 PM - Clicking User Control Panel.
+12/5/2023 3:23:50 PM - Click Logout.
+12/5/2023 3:27:55 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:27:55 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:27:55 PM - FAILED to Move Order on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 3:36:41 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 3:36:41 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 3:36:41 PM - FAILED to Move Order on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 4:03:37 PM - Launching dependencies.
+12/5/2023 4:03:38 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 4:03:38 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 4:03:38 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 4:03:38 PM - Clicking User Control Panel.
+12/5/2023 4:03:38 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 4:04:47 PM - Launching dependencies.
+12/5/2023 4:04:48 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 4:04:48 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 4:04:48 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 4:04:48 PM - Clicking User Control Panel.
+12/5/2023 4:04:48 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 4:05:52 PM - Launching dependencies.
+12/5/2023 4:05:52 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 4:05:52 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 4:05:53 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 4:05:53 PM - Clicking User Control Panel.
+12/5/2023 4:05:53 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 4:06:13 PM - Launching dependencies.
+12/5/2023 4:06:14 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 4:06:14 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 4:06:14 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 4:06:14 PM - Clicking User Control Panel.
+12/5/2023 4:06:14 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 4:07:23 PM - Launching dependencies.
+12/5/2023 4:07:24 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 4:07:24 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 4:07:24 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 4:07:24 PM - Clicking User Control Panel.
+12/5/2023 4:07:24 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 4:10:37 PM - Launching dependencies.
+12/5/2023 4:10:38 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 4:10:38 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 4:10:38 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 4:10:38 PM - Clicking User Control Panel.
+12/5/2023 4:10:38 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 7:39:27 PM - Launching dependencies.
+12/5/2023 7:39:29 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 7:39:29 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 7:39:29 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 7:39:29 PM - Clicking User Control Panel.
+12/5/2023 7:39:29 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 7:41:46 PM - Launching dependencies.
+12/5/2023 7:41:47 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 7:41:47 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 7:41:47 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 7:41:47 PM - Clicking User Control Panel.
+12/5/2023 7:41:47 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 7:42:43 PM - Launching dependencies.
+12/5/2023 7:42:44 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 7:42:44 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 7:42:44 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 7:42:44 PM - Clicking User Control Panel.
+12/5/2023 7:42:44 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 7:46:41 PM - Launching dependencies.
+12/5/2023 7:46:42 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 7:46:42 PM - FAILED to Login to Gravitate Portal on step: Navigating to Gravitate Portal Login Page. Cancelling remaining tests
+12/5/2023 7:46:42 PM - FAILED to Add Order Note on step: Navigating to Gravitate Portal Login Page.
+12/5/2023 7:46:42 PM - Clicking User Control Panel.
+12/5/2023 7:46:42 PM - FAILED to logout of Gravitate Portal on step: Clicking User Control Panel.
+12/5/2023 7:53:39 PM - Launching dependencies.
+12/5/2023 7:53:40 PM - LOOK LOOK!! IT SHOULD BE HERE -> https://costco-test.bb.gravitate.energy/
+12/5/2023 7:53:40 PM - Navigating to Gravitate Portal Login Page.
+12/5/2023 7:53:47 PM - Clicking Username field.
+12/5/2023 7:53:47 PM - Entering Username.
+12/5/2023 7:53:47 PM - Clicking password field.
+12/5/2023 7:53:47 PM - Entering password.
+12/5/2023 7:53:47 PM - Pressing Enter key.
+12/5/2023 7:53:47 PM - Clicking Site Monitoring Tab.
+12/5/2023 7:53:50 PM - Clicking Search Bar.
+12/5/2023 7:53:53 PM - Inserting Store Number.
+12/5/2023 7:53:56 PM - Pressing Enter key.
+12/5/2023 7:53:58 PM - Clicking selected store details.
+12/5/2023 7:53:58 PM - Clicking top order details.
+12/5/2023 7:53:59 PM - Clicking Edit Driver Note.
+12/5/2023 7:54:00 PM - Clicking Note Field.
+12/5/2023 7:54:00 PM - Clearing existing notes.
+12/5/2023 7:54:00 PM - Inserting new text into note.
+12/5/2023 7:54:00 PM - Clicking Save.
+12/5/2023 7:54:00 PM - Clicking Save Order.
+12/5/2023 7:54:02 PM - Clicking No on Email Carrier.
+12/5/2023 7:54:04 PM - Closing status pop up.
+12/5/2023 7:54:04 PM - FAILED to Add Order Note on step: Closing status pop up.
+12/5/2023 7:54:04 PM - Clicking User Control Panel.
+12/5/2023 7:54:04 PM - Click Logout.
